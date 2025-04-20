@@ -1,0 +1,27 @@
+.q{
+    display: grid;
+    background-color:rgb(140, 201, 214);
+    grid-template-columns:repeat(auto-fit,minmax(15px,1fr));
+    justify-content: center;
+    margin: 0px;
+}
+
+#a1{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+#a3{
+    height: 20px;
+margin-top: 0px;
+}
+#a4{
+    background-color: rgb(152, 198, 222);
+    margin: 20px;
+    border-radius: 30px;
+    color: rgb(62, 62, 61);
+}
+#a5:hover{
+    color: blue;
+}
